@@ -1,0 +1,32 @@
+body {
+
+}
+
+.col {
+
+}
+
+
+h1 {
+  color: green;
+}
+
+.button-heading {
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+
+
+
+}
+
+.button-heading .the-biggest-startup-event-of-the-year-heading {
+  font-size: 45px;
+  font-weight: bold;
+  color: blue;
+  margin-top: 500px;
+}
+
+.button-heading .find-out-more-button {
+  margin-top: 150px;
+}
